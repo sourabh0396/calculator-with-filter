@@ -1,0 +1,98 @@
+info: Aug-18-2024 10:08:01: 	Server started on port 5000
+info: Aug-18-2024 10:08:05: 	Successfully retrieved logs
+info: Aug-18-2024 10:08:06: 	Successfully retrieved logs
+info: Aug-18-2024 10:08:10: 	Expression logged: 3+3 | Valid: true
+info: Aug-18-2024 10:08:13: 	Successfully retrieved logs
+info: Aug-18-2024 10:08:13: 	Successfully retrieved logs
+info: Aug-18-2024 10:08:20: 	Expression logged: 3+3 | Valid: true
+info: Aug-18-2024 10:08:46: 	Successfully retrieved logs
+info: Aug-18-2024 10:08:46: 	Successfully retrieved logs
+info: Aug-18-2024 10:08:55: 	Expression logged: 54+44 | Valid: true
+info: Aug-18-2024 10:09:18: 	Successfully retrieved logs
+info: Aug-18-2024 10:09:18: 	Successfully retrieved logs
+info: Aug-18-2024 10:12:26: 	Successfully retrieved logs
+info: Aug-18-2024 10:12:26: 	Successfully retrieved logs
+info: Aug-18-2024 10:31:33: 	Successfully retrieved logs
+info: Aug-18-2024 10:31:33: 	Successfully retrieved logs
+info: Aug-18-2024 10:43:50: 	Successfully retrieved logs
+info: Aug-18-2024 10:43:50: 	Successfully retrieved logs
+info: Aug-18-2024 10:44:11: 	Successfully retrieved logs
+info: Aug-18-2024 10:45:19: 	Expression logged: 9-3 | Valid: true
+info: Aug-18-2024 10:51:10: 	Successfully retrieved logs
+info: Aug-18-2024 10:51:10: 	Successfully retrieved logs
+info: Aug-18-2024 10:51:12: 	Successfully retrieved logs
+info: Aug-18-2024 10:51:12: 	Successfully retrieved logs
+info: Aug-18-2024 10:51:21: 	Successfully retrieved logs
+info: Aug-18-2024 10:51:21: 	Successfully retrieved logs
+info: Aug-18-2024 10:51:25: 	Expression logged: 6-2 | Valid: true
+info: Aug-18-2024 10:51:25: 	Successfully retrieved logs
+info: Aug-18-2024 10:59:33: 	Successfully retrieved logs
+info: Aug-18-2024 10:59:33: 	Successfully retrieved logs
+info: Aug-18-2024 11:00:11: 	Successfully retrieved logs
+info: Aug-18-2024 11:00:11: 	Successfully retrieved logs
+info: Aug-18-2024 11:02:37: 	Server started on port 5000
+info: Aug-18-2024 11:03:46: 	Server started on port 5000
+info: Aug-18-2024 11:03:50: 	Successfully retrieved logs
+info: Aug-18-2024 11:03:50: 	Successfully retrieved logs
+info: Aug-18-2024 11:03:55: 	Expression logged: 6+3 | Valid: true
+info: Aug-18-2024 11:03:55: 	Successfully retrieved logs
+info: Aug-18-2024 13:47:48: 	Successfully retrieved logs
+info: Aug-18-2024 13:47:48: 	Successfully retrieved logs
+info: Aug-18-2024 13:52:00: 	Successfully retrieved logs
+info: Aug-18-2024 13:52:03: 	Successfully retrieved logs
+info: Aug-18-2024 13:52:03: 	Successfully retrieved logs
+info: Aug-18-2024 13:53:57: 	Successfully retrieved logs
+info: Aug-18-2024 13:53:57: 	Successfully retrieved logs
+info: Aug-18-2024 13:56:38: 	Successfully retrieved logs
+info: Aug-18-2024 13:56:41: 	Successfully retrieved logs
+info: Aug-18-2024 13:56:41: 	Successfully retrieved logs
+info: Aug-18-2024 13:57:11: 	Expression logged: 3+2 | Valid: true
+info: Aug-18-2024 13:57:11: 	Successfully retrieved logs
+info: Aug-18-2024 13:57:17: 	Expression logged: 3+2*9 | Valid: true
+info: Aug-18-2024 13:57:17: 	Successfully retrieved logs
+info: Aug-18-2024 13:58:23: 	Successfully retrieved logs
+info: Aug-18-2024 13:58:23: 	Successfully retrieved logs
+info: Aug-18-2024 13:58:50: 	Successfully retrieved logs
+info: Aug-18-2024 13:58:54: 	Successfully retrieved logs
+info: Aug-18-2024 13:58:54: 	Successfully retrieved logs
+info: Aug-18-2024 13:59:25: 	Successfully retrieved logs
+info: Aug-18-2024 13:59:25: 	Successfully retrieved logs
+info: Aug-18-2024 14:06:56: 	Successfully retrieved logs
+info: Aug-18-2024 14:07:00: 	Successfully retrieved logs
+info: Aug-18-2024 14:07:00: 	Successfully retrieved logs
+info: Aug-18-2024 14:07:06: 	Successfully retrieved logs
+info: Aug-18-2024 14:07:08: 	Successfully retrieved logs
+info: Aug-18-2024 14:07:08: 	Successfully retrieved logs
+info: Aug-18-2024 14:07:27: 	Successfully retrieved logs
+info: Aug-18-2024 14:08:03: 	Successfully retrieved logs
+info: Aug-18-2024 14:08:10: 	Successfully retrieved logs
+info: Aug-18-2024 14:08:10: 	Successfully retrieved logs
+info: Aug-18-2024 14:08:52: 	Successfully retrieved logs
+info: Aug-18-2024 14:09:27: 	Successfully retrieved logs
+info: Aug-18-2024 14:09:27: 	Successfully retrieved logs
+info: Aug-18-2024 14:10:20: 	Successfully retrieved logs
+info: Aug-18-2024 14:10:20: 	Successfully retrieved logs
+info: Aug-18-2024 14:11:29: 	Successfully retrieved logs
+info: Aug-18-2024 14:11:29: 	Successfully retrieved logs
+info: Aug-18-2024 14:13:15: 	Expression logged: 6-3 | Valid: true
+info: Aug-18-2024 14:13:15: 	Successfully retrieved logs
+info: Aug-18-2024 14:13:42: 	Successfully retrieved logs
+info: Aug-18-2024 14:13:42: 	Successfully retrieved logs
+info: Aug-18-2024 14:13:59: 	Expression logged: 6+1 | Valid: true
+info: Aug-18-2024 14:13:59: 	Successfully retrieved logs
+info: Aug-18-2024 14:14:11: 	Expression logged: 6+1+2 | Valid: true
+info: Aug-18-2024 14:14:11: 	Successfully retrieved logs
+info: Aug-18-2024 14:14:38: 	Successfully retrieved logs
+info: Aug-18-2024 14:14:38: 	Successfully retrieved logs
+info: Aug-18-2024 14:15:37: 	Successfully retrieved logs
+info: Aug-18-2024 14:15:37: 	Successfully retrieved logs
+info: Aug-18-2024 14:16:58: 	Successfully retrieved logs
+info: Aug-18-2024 14:17:00: 	Successfully retrieved logs
+info: Aug-18-2024 14:17:01: 	Successfully retrieved logs
+error: Aug-18-2024 14:36:30: 	Database operation error: getaddrinfo ENOTFOUND ac-s9kfulp-shard-00-00.uscvgdc.mongodb.net
+error: Aug-18-2024 14:36:50: 	Database operation error: getaddrinfo ENOTFOUND ac-s9kfulp-shard-00-00.uscvgdc.mongodb.net
+info: Aug-18-2024 16:10:33: 	Server started on port 5000
+error: Aug-18-2024 16:10:34: 	Error connecting to MongoDB: querySrv ETIMEOUT _mongodb._tcp.cluster0.uscvgdc.mongodb.net
+info: Aug-18-2024 16:40:57: 	Server started on port 5000
+info: Aug-18-2024 16:59:47: 	Server started on port 5000
+error: Aug-19-2024 07:47:28: 	Database operation error: getaddrinfo ENOTFOUND ac-s9kfulp-shard-00-00.uscvgdc.mongodb.net

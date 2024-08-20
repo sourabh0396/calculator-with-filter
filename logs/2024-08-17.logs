@@ -1,0 +1,67 @@
+info: Aug-17-2024 21:18:18: 	Server started on port 5000
+info: Aug-17-2024 21:18:28: 	Successfully retrieved logs
+info: Aug-17-2024 21:18:29: 	Successfully retrieved logs
+error: Aug-17-2024 21:18:40: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Aug-17-2024 21:18:54: 	Successfully retrieved logs
+info: Aug-17-2024 21:18:54: 	Successfully retrieved logs
+error: Aug-17-2024 21:19:02: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Aug-17-2024 21:20:12: 	Successfully retrieved logs
+info: Aug-17-2024 21:20:12: 	Successfully retrieved logs
+error: Aug-17-2024 21:20:16: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Aug-17-2024 21:20:23: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:21: 	Server started on port 5000
+info: Aug-17-2024 21:54:25: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:26: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:31: 	Expression logged: 8+3 | Valid: true
+info: Aug-17-2024 21:54:31: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:38: 	Expression logged: 8+35+2 | Valid: true
+info: Aug-17-2024 21:54:38: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:39: 	Expression logged: 8+35+2+2 | Valid: true
+info: Aug-17-2024 21:54:39: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:41: 	Expression logged: 8+35+2+2+4 | Valid: true
+info: Aug-17-2024 21:54:41: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:44: 	Expression logged: 8+35+2+2+4+7+4 | Valid: true
+info: Aug-17-2024 21:54:44: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:51: 	Expression logged: 8+35+2+2+4+7+4*5 | Valid: true
+info: Aug-17-2024 21:54:51: 	Successfully retrieved logs
+info: Aug-17-2024 21:54:57: 	Expression logged: 2+5 | Valid: true
+info: Aug-17-2024 21:54:57: 	Successfully retrieved logs
+info: Aug-17-2024 21:55:00: 	Expression logged: 2+5+2 | Valid: true
+info: Aug-17-2024 21:55:00: 	Successfully retrieved logs
+info: Aug-17-2024 21:55:03: 	Expression logged: 2+5+2+5 | Valid: true
+info: Aug-17-2024 21:55:03: 	Successfully retrieved logs
+info: Aug-17-2024 21:55:07: 	Expression logged: 2+5+2+5+4 | Valid: true
+info: Aug-17-2024 21:55:07: 	Successfully retrieved logs
+info: Aug-17-2024 21:55:10: 	Expression logged: 2+5+2+5+4-5 | Valid: true
+info: Aug-17-2024 21:55:10: 	Successfully retrieved logs
+info: Aug-17-2024 21:55:15: 	Expression logged: 2+5+2+5+4-5-5 | Valid: true
+info: Aug-17-2024 21:55:15: 	Successfully retrieved logs
+info: Aug-17-2024 21:55:55: 	Successfully retrieved logs
+info: Aug-17-2024 22:05:53: 	Server started on port 5000
+info: Aug-17-2024 22:05:54: 	Successfully retrieved logs
+info: Aug-17-2024 22:05:55: 	Successfully retrieved logs
+info: Aug-17-2024 22:06:20: 	Expression logged: 3+.0 | Valid: true
+info: Aug-17-2024 22:06:20: 	Successfully retrieved logs
+info: Aug-17-2024 22:06:27: 	Expression logged: 1 | Valid: true
+info: Aug-17-2024 22:06:27: 	Successfully retrieved logs
+info: Aug-17-2024 22:13:03: 	Successfully retrieved logs
+info: Aug-17-2024 22:13:03: 	Successfully retrieved logs
+info: Aug-17-2024 22:13:12: 	Expression logged: 3+2 | Valid: true
+info: Aug-17-2024 22:13:12: 	Successfully retrieved logs
+info: Aug-17-2024 22:16:31: 	Successfully retrieved logs
+info: Aug-17-2024 22:16:31: 	Successfully retrieved logs
+info: Aug-17-2024 22:16:32: 	Successfully retrieved logs
+info: Aug-17-2024 22:16:32: 	Successfully retrieved logs
+info: Aug-17-2024 22:17:55: 	Successfully retrieved logs
+info: Aug-17-2024 22:17:55: 	Successfully retrieved logs
+info: Aug-17-2024 22:18:51: 	Successfully retrieved logs
+info: Aug-17-2024 22:18:57: 	Successfully retrieved logs
+info: Aug-17-2024 22:19:02: 	Successfully retrieved logs
+info: Aug-17-2024 22:19:13: 	Successfully retrieved logs
+info: Aug-17-2024 22:20:51: 	Successfully retrieved logs
+info: Aug-17-2024 22:20:51: 	Successfully retrieved logs
+info: Aug-17-2024 22:22:15: 	Successfully retrieved logs
+info: Aug-17-2024 22:22:15: 	Successfully retrieved logs
+info: Aug-18-2024 09:40:22: 	Successfully retrieved logs
+info: Aug-18-2024 09:40:22: 	Successfully retrieved logs
+info: Aug-18-2024 10:07:48: 	Expression logged: 5+2 | Valid: true

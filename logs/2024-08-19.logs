@@ -1,0 +1,311 @@
+info: Aug-19-2024 07:48:00: 	Server started on port 5000
+error: Aug-19-2024 07:48:00: 	Error connecting to MongoDB: querySrv ETIMEOUT _mongodb._tcp.cluster0.uscvgdc.mongodb.net
+info: Aug-19-2024 08:33:24: 	Server started on port 5000
+info: Aug-19-2024 08:33:30: 	Successfully retrieved logs
+info: Aug-19-2024 08:33:30: 	Successfully retrieved logs
+info: Aug-19-2024 08:33:41: 	Expression logged: 5+3 | Valid: true
+info: Aug-19-2024 08:33:41: 	Successfully retrieved logs
+info: Aug-19-2024 08:45:07: 	Server started on port 5000
+info: Aug-19-2024 08:45:56: 	Successfully retrieved logs
+info: Aug-19-2024 08:45:56: 	Successfully retrieved logs
+info: Aug-19-2024 08:46:10: 	Successfully retrieved logs
+info: Aug-19-2024 08:46:10: 	Successfully retrieved logs
+info: Aug-19-2024 09:01:34: 	Successfully retrieved logs
+info: Aug-19-2024 09:01:34: 	Successfully retrieved logs
+info: Aug-19-2024 09:03:22: 	Successfully retrieved logs
+info: Aug-19-2024 09:03:23: 	Successfully retrieved logs
+info: Aug-19-2024 09:05:52: 	Successfully retrieved logs
+info: Aug-19-2024 09:05:52: 	Successfully retrieved logs
+info: Aug-19-2024 09:06:16: 	Successfully retrieved logs
+info: Aug-19-2024 09:06:16: 	Successfully retrieved logs
+info: Aug-19-2024 09:06:26: 	Successfully retrieved logs
+info: Aug-19-2024 09:06:26: 	Successfully retrieved logs
+info: Aug-19-2024 09:06:32: 	Successfully retrieved logs
+info: Aug-19-2024 09:06:32: 	Successfully retrieved logs
+info: Aug-19-2024 09:07:12: 	Successfully retrieved logs
+info: Aug-19-2024 09:07:13: 	Successfully retrieved logs
+info: Aug-19-2024 09:07:58: 	Successfully retrieved logs
+info: Aug-19-2024 09:07:58: 	Successfully retrieved logs
+info: Aug-19-2024 09:08:15: 	Successfully retrieved logs
+info: Aug-19-2024 09:08:15: 	Successfully retrieved logs
+info: Aug-19-2024 09:08:43: 	Successfully retrieved logs
+info: Aug-19-2024 09:08:43: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:35: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:35: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:40: 	Deleted 10 log(s) with IDs: 28,27,26,25,24,23,22,21,20,19
+info: Aug-19-2024 09:13:40: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:45: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:45: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:48: 	Deleted 1 log(s) with IDs: 17
+info: Aug-19-2024 09:13:48: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:51: 	Successfully retrieved logs
+info: Aug-19-2024 09:13:52: 	Successfully retrieved logs
+info: Aug-19-2024 09:14:04: 	Deleted 1 log(s) with IDs: 11
+info: Aug-19-2024 09:14:04: 	Successfully retrieved logs
+info: Aug-19-2024 09:16:41: 	Successfully retrieved logs
+info: Aug-19-2024 09:16:42: 	Successfully retrieved logs
+info: Aug-19-2024 09:16:42: 	Successfully retrieved logs
+info: Aug-19-2024 09:20:23: 	Successfully retrieved logs
+info: Aug-19-2024 09:20:23: 	Successfully retrieved logs
+info: Aug-19-2024 09:24:17: 	Successfully retrieved logs
+info: Aug-19-2024 09:24:17: 	Successfully retrieved logs
+info: Aug-19-2024 09:24:18: 	Successfully retrieved logs
+info: Aug-19-2024 09:24:18: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:31: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:31: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:31: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:31: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:54: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:54: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:55: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:57: 	Successfully retrieved logs
+info: Aug-19-2024 09:27:57: 	Successfully retrieved logs
+info: Aug-19-2024 09:28:17: 	Deleted 1 log(s) with IDs: 14
+info: Aug-19-2024 09:28:17: 	Successfully retrieved logs
+info: Aug-19-2024 09:28:20: 	Successfully retrieved logs
+info: Aug-19-2024 09:28:20: 	Successfully retrieved logs
+info: Aug-19-2024 09:37:31: 	Successfully retrieved logs
+info: Aug-19-2024 09:37:31: 	Successfully retrieved logs
+info: Aug-19-2024 09:37:31: 	Successfully retrieved logs
+info: Aug-19-2024 09:37:31: 	Successfully retrieved logs
+info: Aug-19-2024 10:12:51: 	Successfully retrieved logs
+info: Aug-19-2024 10:12:51: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:01: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:01: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:01: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:02: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:08: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:09: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:15: 	Expression logged: 6+2 | Valid: true
+info: Aug-19-2024 10:15:15: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:22: 	Expression logged: 6+2-6 | Valid: true
+info: Aug-19-2024 10:15:23: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:26: 	Expression logged: 6+2-6+2+5+1/4 | Valid: true
+info: Aug-19-2024 10:15:26: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:26: 	Expression logged: 6+2-6+2+5+1 | Valid: true
+info: Aug-19-2024 10:15:26: 	Expression logged: 6+2-6+2 | Valid: true
+info: Aug-19-2024 10:15:26: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:26: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:35: 	Expression logged: 4-5+11 | Valid: true
+info: Aug-19-2024 10:15:35: 	Expression logged: 4-5+11+1 | Valid: true
+info: Aug-19-2024 10:15:36: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:36: 	Successfully retrieved logs
+info: Aug-19-2024 10:15:37: 	Expression logged: 4-5+11+1/4 | Valid: true
+info: Aug-19-2024 10:15:37: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:28: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:28: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:34: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:34: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:40: 	Expression logged: 3+2 | Valid: true
+info: Aug-19-2024 10:21:40: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:42: 	Expression logged: 3+2+4 | Valid: true
+info: Aug-19-2024 10:21:42: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:44: 	Expression logged: 3+2+4+1 | Valid: true
+info: Aug-19-2024 10:21:44: 	Successfully retrieved logs
+info: Aug-19-2024 10:21:58: 	Expression logged: 6-5 | Valid: true
+info: Aug-19-2024 10:21:58: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:09: 	Expression logged: 6-4 | Valid: true
+info: Aug-19-2024 10:22:09: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:16: 	Expression logged: 9+2 | Valid: true
+info: Aug-19-2024 10:22:17: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:19: 	Expression logged: 9+2+2 | Valid: true
+info: Aug-19-2024 10:22:20: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:22: 	Expression logged: 9+2+2+4 | Valid: true
+info: Aug-19-2024 10:22:22: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:25: 	Expression logged: 9+2+2+4-2 | Valid: true
+info: Aug-19-2024 10:22:25: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:29: 	Expression logged: 9+2+2+4-27+2 | Valid: true
+info: Aug-19-2024 10:22:29: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:35: 	Expression logged: 6*8 | Valid: true
+info: Aug-19-2024 10:22:35: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:39: 	Expression logged: 6*8/4 | Valid: true
+info: Aug-19-2024 10:22:39: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:43: 	Expression logged: 6*8/4/5 | Valid: true
+info: Aug-19-2024 10:22:43: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:46: 	Expression logged: 6*8/4/5*7 | Valid: true
+info: Aug-19-2024 10:22:46: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:50: 	Expression logged: 6*8/4/5*7*4 | Valid: true
+info: Aug-19-2024 10:22:50: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:54: 	Expression logged: 6*8/4/5*7*4*5 | Valid: true
+info: Aug-19-2024 10:22:54: 	Successfully retrieved logs
+info: Aug-19-2024 10:22:57: 	Expression logged: 6*8/4/5*7*4*5*2 | Valid: true
+info: Aug-19-2024 10:22:57: 	Successfully retrieved logs
+info: Aug-19-2024 10:23:02: 	Expression logged: 6*8/4/5*7*4*5*2-11 | Valid: true
+info: Aug-19-2024 10:23:03: 	Successfully retrieved logs
+info: Aug-19-2024 10:23:06: 	Expression logged: 6*8/4/5*7*4*5*2-11+3 | Valid: true
+info: Aug-19-2024 10:23:06: 	Successfully retrieved logs
+info: Aug-19-2024 10:23:08: 	Successfully retrieved logs
+info: Aug-19-2024 10:23:08: 	Successfully retrieved logs
+info: Aug-19-2024 10:23:20: 	Expression logged: 5+2 | Valid: true
+info: Aug-19-2024 10:23:20: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:14: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:14: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:19: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:19: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:26: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:26: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:58: 	Successfully retrieved logs
+info: Aug-19-2024 10:24:58: 	Successfully retrieved logs
+info: Aug-19-2024 10:26:00: 	Successfully retrieved logs
+info: Aug-19-2024 10:26:01: 	Successfully retrieved logs
+info: Aug-19-2024 10:26:03: 	Successfully retrieved logs
+info: Aug-19-2024 10:26:03: 	Successfully retrieved logs
+info: Aug-19-2024 10:29:30: 	Successfully retrieved logs
+info: Aug-19-2024 10:29:30: 	Successfully retrieved logs
+info: Aug-19-2024 10:30:19: 	Successfully retrieved logs
+info: Aug-19-2024 10:30:19: 	Successfully retrieved logs
+info: Aug-19-2024 10:30:34: 	Successfully retrieved logs
+info: Aug-19-2024 10:30:35: 	Successfully retrieved logs
+info: Aug-19-2024 10:36:29: 	Successfully retrieved logs
+info: Aug-19-2024 10:36:29: 	Successfully retrieved logs
+info: Aug-19-2024 10:39:24: 	Successfully retrieved logs
+info: Aug-19-2024 10:39:24: 	Successfully retrieved logs
+info: Aug-19-2024 10:39:28: 	Successfully retrieved logs
+info: Aug-19-2024 10:39:28: 	Successfully retrieved logs
+info: Aug-19-2024 11:45:38: 	Successfully retrieved logs
+info: Aug-19-2024 11:45:38: 	Successfully retrieved logs
+info: Aug-19-2024 11:46:49: 	Successfully retrieved logs
+info: Aug-19-2024 11:46:49: 	Successfully retrieved logs
+info: Aug-19-2024 11:46:49: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:07: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:07: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:08: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:08: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:08: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:08: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:20: 	Deleted 1 log(s) with IDs: 54
+info: Aug-19-2024 11:47:21: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:23: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:23: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:28: 	Successfully retrieved logs
+info: Aug-19-2024 11:47:28: 	Successfully retrieved logs
+info: Aug-19-2024 11:49:46: 	Successfully retrieved logs
+info: Aug-19-2024 11:49:47: 	Successfully retrieved logs
+info: Aug-19-2024 11:49:47: 	Successfully retrieved logs
+info: Aug-19-2024 11:49:55: 	Successfully retrieved logs
+info: Aug-19-2024 11:49:55: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:46: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:46: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:46: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:46: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:46: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:46: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:49: 	Successfully retrieved logs
+info: Aug-19-2024 11:54:49: 	Successfully retrieved logs
+info: Aug-19-2024 11:55:19: 	Successfully retrieved logs
+info: Aug-19-2024 11:55:19: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:11: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:12: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:12: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:12: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:12: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:12: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:16: 	Successfully retrieved logs
+info: Aug-19-2024 12:01:16: 	Successfully retrieved logs
+info: Aug-19-2024 12:04:32: 	Successfully retrieved logs
+info: Aug-19-2024 12:04:32: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:51: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:51: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:52: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:52: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:52: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:52: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:58: 	Successfully retrieved logs
+info: Aug-19-2024 12:14:58: 	Successfully retrieved logs
+info: Aug-19-2024 12:16:33: 	Successfully retrieved logs
+info: Aug-19-2024 12:16:33: 	Successfully retrieved logs
+info: Aug-19-2024 12:16:34: 	Successfully retrieved logs
+info: Aug-19-2024 12:16:34: 	Successfully retrieved logs
+info: Aug-19-2024 12:17:11: 	Successfully retrieved logs
+info: Aug-19-2024 12:17:11: 	Successfully retrieved logs
+info: Aug-19-2024 12:18:14: 	Successfully retrieved logs
+info: Aug-19-2024 12:18:14: 	Successfully retrieved logs
+info: Aug-19-2024 12:18:16: 	Successfully retrieved logs
+info: Aug-19-2024 12:18:16: 	Successfully retrieved logs
+info: Aug-19-2024 12:18:48: 	Successfully retrieved logs
+info: Aug-19-2024 12:18:48: 	Successfully retrieved logs
+info: Aug-19-2024 12:19:06: 	Successfully retrieved logs
+info: Aug-19-2024 12:19:06: 	Successfully retrieved logs
+info: Aug-19-2024 12:19:39: 	Successfully retrieved logs
+info: Aug-19-2024 12:19:41: 	Successfully retrieved logs
+info: Aug-19-2024 12:19:41: 	Successfully retrieved logs
+info: Aug-19-2024 12:20:30: 	Successfully retrieved logs
+info: Aug-19-2024 12:20:30: 	Successfully retrieved logs
+info: Aug-19-2024 12:20:34: 	Successfully retrieved logs
+info: Aug-19-2024 12:20:34: 	Successfully retrieved logs
+info: Aug-19-2024 12:20:44: 	Deleted 1 log(s) with IDs: 49
+info: Aug-19-2024 12:20:44: 	Successfully retrieved logs
+info: Aug-19-2024 12:20:48: 	Successfully retrieved logs
+info: Aug-19-2024 12:20:48: 	Successfully retrieved logs
+info: Aug-19-2024 12:30:04: 	Successfully retrieved logs
+info: Aug-19-2024 12:30:05: 	Successfully retrieved logs
+info: Aug-19-2024 12:30:05: 	Successfully retrieved logs
+info: Aug-19-2024 12:30:16: 	Successfully retrieved logs
+info: Aug-19-2024 12:30:16: 	Successfully retrieved logs
+info: Aug-19-2024 12:43:28: 	Successfully retrieved logs
+info: Aug-19-2024 12:43:28: 	Successfully retrieved logs
+info: Aug-19-2024 12:50:39: 	Successfully retrieved logs
+info: Aug-19-2024 12:50:41: 	Successfully retrieved logs
+info: Aug-19-2024 12:50:41: 	Successfully retrieved logs
+info: Aug-19-2024 12:50:42: 	Successfully retrieved logs
+info: Aug-19-2024 12:51:36: 	Successfully retrieved logs
+info: Aug-19-2024 12:51:36: 	Successfully retrieved logs
+info: Aug-19-2024 12:53:55: 	Successfully retrieved logs
+info: Aug-19-2024 12:53:55: 	Successfully retrieved logs
+info: Aug-19-2024 12:53:56: 	Successfully retrieved logs
+info: Aug-19-2024 12:53:57: 	Successfully retrieved logs
+info: Aug-19-2024 12:53:57: 	Successfully retrieved logs
+info: Aug-19-2024 12:53:58: 	Successfully retrieved logs
+info: Aug-19-2024 12:53:58: 	Successfully retrieved logs
+info: Aug-19-2024 13:05:58: 	Successfully retrieved logs
+info: Aug-19-2024 13:05:59: 	Successfully retrieved logs
+info: Aug-19-2024 13:05:59: 	Successfully retrieved logs
+info: Aug-19-2024 13:06:26: 	Expression logged: 88-55 | Valid: true
+info: Aug-19-2024 13:06:26: 	Successfully retrieved logs
+info: Aug-19-2024 13:06:30: 	Expression logged: 88-55+2 | Valid: true
+info: Aug-19-2024 13:06:30: 	Successfully retrieved logs
+info: Aug-19-2024 13:06:37: 	Deleted 1 log(s) with IDs: 57
+info: Aug-19-2024 13:06:37: 	Successfully retrieved logs
+info: Aug-19-2024 13:07:24: 	Expression logged: 5+3 | Valid: true
+info: Aug-19-2024 13:07:25: 	Successfully retrieved logs
+info: Aug-19-2024 13:07:28: 	Expression logged: 5+3+1 | Valid: true
+info: Aug-19-2024 13:07:28: 	Successfully retrieved logs
+info: Aug-19-2024 13:07:33: 	Deleted 1 log(s) with IDs: 57,51
+info: Aug-19-2024 13:07:33: 	Successfully retrieved logs
+info: Aug-19-2024 16:40:51: 	Successfully retrieved logs
+info: Aug-19-2024 16:40:51: 	Successfully retrieved logs
+info: Aug-19-2024 16:40:58: 	Successfully retrieved logs
+info: Aug-19-2024 16:40:58: 	Successfully retrieved logs
+info: Aug-19-2024 16:41:36: 	Deleted 1 log(s) with IDs: 58
+info: Aug-19-2024 16:41:36: 	Successfully retrieved logs
+info: Aug-19-2024 16:41:54: 	Successfully retrieved logs
+info: Aug-19-2024 16:41:54: 	Successfully retrieved logs
+info: Aug-19-2024 16:41:55: 	Successfully retrieved logs
+info: Aug-19-2024 16:41:55: 	Successfully retrieved logs
+info: Aug-19-2024 16:46:17: 	Successfully retrieved logs
+info: Aug-19-2024 16:46:18: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:34: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:34: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:37: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:37: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:51: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:51: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:58: 	Successfully retrieved logs
+info: Aug-19-2024 16:57:59: 	Successfully retrieved logs
+info: Aug-19-2024 16:58:59: 	Successfully retrieved logs
+info: Aug-19-2024 16:58:59: 	Successfully retrieved logs
+info: Aug-19-2024 16:59:50: 	Successfully retrieved logs
+info: Aug-19-2024 16:59:50: 	Successfully retrieved logs
+info: Aug-19-2024 16:59:55: 	Successfully retrieved logs
+info: Aug-19-2024 16:59:55: 	Successfully retrieved logs
+info: Aug-19-2024 17:00:00: 	Received an empty expression
+info: Aug-19-2024 17:00:05: 	Expression logged: 6+3 | Valid: true
+info: Aug-19-2024 17:00:05: 	Successfully retrieved logs
+info: Aug-19-2024 17:06:58: 	Successfully retrieved logs
+info: Aug-19-2024 17:06:59: 	Successfully retrieved logs
+info: Aug-19-2024 17:07:12: 	Deleted 1 log(s) with IDs: 48
+info: Aug-19-2024 17:07:12: 	Successfully retrieved logs
+info: Aug-19-2024 18:10:57: 	Successfully retrieved logs
+info: Aug-19-2024 18:10:57: 	Successfully retrieved logs
+info: Aug-19-2024 20:13:15: 	Server started on port 5000
+info: Aug-19-2024 20:16:41: 	Server started on port 5000

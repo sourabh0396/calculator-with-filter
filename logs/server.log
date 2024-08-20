@@ -1,0 +1,398 @@
+info: Jul-25-2024 14:51:28: 	Server started on port 5000
+info: Jul-25-2024 14:53:48: 	Server started on port 5000
+info: Jul-25-2024 14:55:42: 	Server started on port 5000
+info: Jul-25-2024 14:57:44: 	Server started on port 5000
+info: Jul-25-2024 16:43:13: 	Server started on port 5000
+info: Jul-25-2024 17:02:08: 	Server started on port 5000
+info: Jul-25-2024 17:07:27: 	Successfully retrieved logs
+info: Jul-25-2024 17:07:27: 	Successfully retrieved logs
+info: Jul-25-2024 17:07:32: 	Expression logged: 77+3 | Valid: true
+info: Jul-25-2024 17:07:32: 	Successfully retrieved logs
+info: Jul-25-2024 17:07:37: 	Expression logged: 77+377 | Valid: true
+info: Jul-25-2024 17:07:37: 	Successfully retrieved logs
+info: Jul-25-2024 17:08:41: 	Expression logged: 77+37777 | Valid: true
+info: Jul-25-2024 17:08:41: 	Successfully retrieved logs
+info: Jul-25-2024 17:08:44: 	Expression logged: 77+3777722 | Valid: true
+info: Jul-25-2024 17:08:44: 	Successfully retrieved logs
+info: Jul-25-2024 17:08:55: 	Expression logged: 12+999 | Valid: true
+info: Jul-25-2024 17:08:55: 	Successfully retrieved logs
+info: Jul-25-2024 17:14:11: 	Successfully retrieved logs
+info: Jul-25-2024 17:14:11: 	Successfully retrieved logs
+info: Jul-25-2024 17:19:52: 	Expression logged: 55+33 | Valid: true
+info: Jul-25-2024 17:19:52: 	Successfully retrieved logs
+info: Jul-25-2024 17:20:04: 	Expression logged: 55+3333 | Valid: true
+info: Jul-25-2024 17:20:04: 	Successfully retrieved logs
+info: Jul-25-2024 17:21:42: 	Successfully retrieved logs
+info: Jul-25-2024 17:21:43: 	Successfully retrieved logs
+info: Jul-25-2024 17:43:27: 	Successfully retrieved logs
+info: Jul-25-2024 17:43:27: 	Successfully retrieved logs
+info: Jul-25-2024 17:44:39: 	Expression logged: 332 | Valid: true
+info: Jul-25-2024 17:44:39: 	Successfully retrieved logs
+info: Jul-25-2024 17:44:48: 	Expression logged: 33299+2 | Valid: true
+info: Jul-25-2024 17:44:48: 	Successfully retrieved logs
+info: Jul-25-2024 17:44:53: 	Expression logged: 33299+2+1 | Valid: true
+info: Jul-25-2024 17:44:53: 	Successfully retrieved logs
+info: Jul-25-2024 17:45:08: 	Expression logged: 33299+2+177 | Valid: true
+info: Jul-25-2024 17:45:08: 	Successfully retrieved logs
+info: Jul-25-2024 17:45:28: 	Expression logged: 33299+2+177+33 | Valid: true
+info: Jul-25-2024 17:45:28: 	Successfully retrieved logs
+info: Jul-25-2024 17:45:34: 	Expression logged: 33299+2+177+33+22 | Valid: true
+info: Jul-25-2024 17:45:34: 	Successfully retrieved logs
+info: Jul-25-2024 17:49:54: 	Successfully retrieved logs
+info: Jul-25-2024 17:50:33: 	Successfully retrieved logs
+info: Jul-25-2024 17:52:08: 	Successfully retrieved logs
+info: Jul-25-2024 17:52:24: 	Successfully retrieved logs
+info: Jul-25-2024 17:52:24: 	Successfully retrieved logs
+info: Jul-25-2024 17:52:28: 	Expression logged: 88+3 | Valid: true
+info: Jul-25-2024 17:52:28: 	Successfully retrieved logs
+info: Jul-25-2024 17:52:37: 	Expression logged: 88+388 | Valid: true
+info: Jul-25-2024 17:52:37: 	Successfully retrieved logs
+info: Jul-25-2024 17:53:03: 	Successfully retrieved logs
+info: Jul-25-2024 18:07:25: 	Expression logged: 55+333300 | Valid: true
+info: Jul-25-2024 18:07:25: 	Successfully retrieved logs
+info: Jul-25-2024 18:46:56: 	Successfully retrieved logs
+info: Jul-25-2024 18:46:56: 	Successfully retrieved logs
+info: Jul-25-2024 18:47:03: 	Expression logged: 99-6 | Valid: true
+info: Jul-25-2024 18:47:03: 	Successfully retrieved logs
+info: Jul-25-2024 18:47:16: 	Successfully retrieved logs
+info: Jul-25-2024 19:11:48: 	Expression logged: 55+77 | Valid: true
+info: Jul-25-2024 19:11:48: 	Successfully retrieved logs
+info: Jul-25-2024 19:11:53: 	Expression logged: 55+7755+33 | Valid: true
+info: Jul-25-2024 19:11:53: 	Successfully retrieved logs
+info: Jul-25-2024 19:13:23: 	Expression logged: 55+33 | Valid: true
+info: Jul-25-2024 19:13:23: 	Successfully retrieved logs
+info: Jul-25-2024 19:15:31: 	Successfully retrieved logs
+info: Jul-25-2024 19:15:42: 	Expression logged: 55+33 | Valid: true
+info: Jul-25-2024 19:15:42: 	Successfully retrieved logs
+info: Jul-25-2024 19:15:55: 	Successfully retrieved logs
+info: Jul-25-2024 19:15:58: 	Expression logged: 55+3366 | Valid: true
+info: Jul-25-2024 19:15:58: 	Successfully retrieved logs
+info: Jul-25-2024 19:16:07: 	Successfully retrieved logs
+info: Jul-25-2024 19:16:22: 	Successfully retrieved logs
+info: Jul-25-2024 19:16:35: 	Successfully retrieved logs
+info: Jul-25-2024 19:16:35: 	Successfully retrieved logs
+info: Jul-25-2024 20:19:27: 	Successfully retrieved logs
+info: Jul-25-2024 20:19:27: 	Successfully retrieved logs
+info: Jul-25-2024 20:19:33: 	Expression logged: 99+6 | Valid: true
+info: Jul-25-2024 20:19:33: 	Successfully retrieved logs
+info: Jul-25-2024 20:20:07: 	Successfully retrieved logs
+info: Jul-25-2024 20:20:11: 	Expression logged: 99+66 | Valid: true
+info: Jul-25-2024 20:20:11: 	Successfully retrieved logs
+info: Jul-25-2024 20:20:41: 	Successfully retrieved logs
+info: Jul-25-2024 20:20:41: 	Successfully retrieved logs
+info: Jul-25-2024 20:24:58: 	Successfully retrieved logs
+info: Jul-25-2024 20:25:18: 	Successfully retrieved logs
+info: Jul-25-2024 20:25:22: 	Successfully retrieved logs
+info: Jul-25-2024 20:25:22: 	Successfully retrieved logs
+info: Jul-25-2024 21:55:54: 	Server started on port 5000
+info: Jul-25-2024 21:56:32: 	Successfully retrieved logs
+info: Jul-25-2024 21:56:32: 	Successfully retrieved logs
+info: Jul-25-2024 21:56:39: 	Successfully retrieved logs
+info: Jul-25-2024 21:56:39: 	Successfully retrieved logs
+info: Jul-25-2024 21:56:43: 	Expression logged: 88+3 | Valid: true
+info: Jul-25-2024 21:56:43: 	Successfully retrieved logs
+info: Jul-25-2024 21:56:50: 	Expression logged: 88+377 | Valid: true
+info: Jul-25-2024 21:56:50: 	Successfully retrieved logs
+info: Jul-25-2024 21:56:52: 	Expression logged: 88+377 | Valid: true
+info: Jul-25-2024 21:56:52: 	Successfully retrieved logs
+info: Jul-25-2024 22:00:16: 	Successfully retrieved logs
+info: Jul-25-2024 22:05:39: 	Successfully retrieved logs
+info: Jul-25-2024 22:08:05: 	Successfully retrieved logs
+info: Jul-25-2024 22:08:27: 	Successfully retrieved logs
+info: Jul-26-2024 07:49:08: 	Expression logged: 88+3 | Valid: true
+info: Jul-26-2024 07:49:08: 	Successfully retrieved logs
+info: Jul-26-2024 08:01:14: 	Server started on port 5000
+info: Jul-26-2024 08:01:31: 	Successfully retrieved logs
+info: Jul-26-2024 08:01:35: 	Expression logged: 99+3 | Valid: true
+info: Jul-26-2024 08:01:35: 	Successfully retrieved logs
+info: Jul-26-2024 08:21:26: 	Successfully retrieved logs
+info: Jul-26-2024 08:21:31: 	Expression logged: 7755+33 | Valid: true
+info: Jul-26-2024 08:21:31: 	Successfully retrieved logs
+info: Jul-26-2024 08:22:29: 	Successfully retrieved logs
+info: Jul-26-2024 08:22:29: 	Successfully retrieved logs
+info: Jul-26-2024 08:22:30: 	Successfully retrieved logs
+info: Jul-26-2024 08:22:30: 	Successfully retrieved logs
+info: Jul-26-2024 08:22:39: 	Expression logged: 55+33 | Valid: true
+info: Jul-26-2024 08:22:39: 	Successfully retrieved logs
+info: Jul-26-2024 08:22:54: 	Successfully retrieved logs
+info: Jul-26-2024 08:22:54: 	Successfully retrieved logs
+info: Jul-26-2024 08:23:00: 	Successfully retrieved logs
+info: Jul-26-2024 08:23:00: 	Successfully retrieved logs
+info: Jul-26-2024 08:23:00: 	Successfully retrieved logs
+info: Jul-26-2024 08:23:00: 	Successfully retrieved logs
+info: Jul-26-2024 08:23:03: 	Successfully retrieved logs
+info: Jul-26-2024 08:23:03: 	Successfully retrieved logs
+info: Jul-26-2024 08:24:14: 	Successfully retrieved logs
+info: Jul-26-2024 08:24:14: 	Successfully retrieved logs
+info: Jul-26-2024 08:24:14: 	Successfully retrieved logs
+info: Jul-26-2024 08:24:14: 	Successfully retrieved logs
+info: Jul-26-2024 08:25:14: 	Successfully retrieved logs
+info: Jul-26-2024 08:25:14: 	Successfully retrieved logs
+info: Jul-26-2024 08:25:38: 	Expression logged: 77+33 | Valid: true
+info: Jul-26-2024 08:25:38: 	Successfully retrieved logs
+info: Jul-26-2024 08:25:43: 	Expression logged: 77+33+33 | Valid: true
+info: Jul-26-2024 08:25:43: 	Successfully retrieved logs
+info: Jul-26-2024 08:27:22: 	Successfully retrieved logs
+info: Jul-26-2024 08:27:22: 	Successfully retrieved logs
+info: Jul-26-2024 08:27:26: 	Expression logged: 77+33 | Valid: true
+info: Jul-26-2024 08:27:26: 	Successfully retrieved logs
+info: Jul-26-2024 08:27:29: 	Expression logged: 77+33466 | Valid: true
+info: Jul-26-2024 08:27:29: 	Successfully retrieved logs
+info: Jul-26-2024 08:30:51: 	Successfully retrieved logs
+info: Jul-26-2024 08:30:51: 	Successfully retrieved logs
+info: Jul-26-2024 08:30:51: 	Successfully retrieved logs
+info: Jul-26-2024 08:30:51: 	Successfully retrieved logs
+info: Jul-26-2024 08:31:16: 	Successfully retrieved logs
+info: Jul-26-2024 08:31:16: 	Successfully retrieved logs
+info: Jul-26-2024 08:31:16: 	Successfully retrieved logs
+info: Jul-26-2024 08:31:16: 	Successfully retrieved logs
+info: Jul-26-2024 08:32:21: 	Successfully retrieved logs
+info: Jul-26-2024 08:32:23: 	Successfully retrieved logs
+info: Jul-26-2024 08:32:23: 	Successfully retrieved logs
+info: Jul-26-2024 08:37:07: 	Expression logged: 66+33 | Valid: true
+info: Jul-26-2024 08:37:07: 	Successfully retrieved logs
+info: Jul-26-2024 08:40:54: 	Successfully retrieved logs
+info: Jul-26-2024 08:40:54: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:05: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:05: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:23: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:23: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:23: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:23: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:26: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:26: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:41:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:42:26: 	Expression logged: 88+55 | Valid: true
+info: Jul-26-2024 08:42:26: 	Successfully retrieved logs
+info: Jul-26-2024 08:42:33: 	Expression logged: 88+5588+66 | Valid: true
+info: Jul-26-2024 08:42:33: 	Successfully retrieved logs
+info: Jul-26-2024 08:46:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:46:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:46:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:46:47: 	Successfully retrieved logs
+info: Jul-26-2024 08:48:18: 	Successfully retrieved logs
+info: Jul-26-2024 08:48:18: 	Successfully retrieved logs
+info: Jul-26-2024 08:49:09: 	Expression logged: 44+3 | Valid: true
+info: Jul-26-2024 08:49:09: 	Successfully retrieved logs
+info: Jul-26-2024 08:53:34: 	Successfully retrieved logs
+info: Jul-26-2024 08:53:34: 	Successfully retrieved logs
+info: Jul-26-2024 09:15:16: 	Successfully retrieved logs
+info: Jul-26-2024 09:15:29: 	Successfully retrieved logs
+info: Jul-26-2024 09:15:35: 	Successfully retrieved logs
+info: Jul-26-2024 09:15:38: 	Expression logged: 99+33 | Valid: true
+info: Jul-26-2024 09:15:38: 	Successfully retrieved logs
+info: Jul-26-2024 09:18:30: 	Successfully retrieved logs
+info: Jul-26-2024 09:18:41: 	Successfully retrieved logs
+info: Jul-26-2024 09:18:48: 	Successfully retrieved logs
+info: Jul-26-2024 09:20:25: 	Successfully retrieved logs
+info: Jul-26-2024 09:20:25: 	Successfully retrieved logs
+info: Jul-26-2024 09:21:10: 	Successfully retrieved logs
+info: Jul-26-2024 09:21:10: 	Successfully retrieved logs
+info: Jul-26-2024 09:21:40: 	Successfully retrieved logs
+info: Jul-26-2024 09:21:40: 	Successfully retrieved logs
+info: Jul-26-2024 09:21:49: 	Expression logged: 88+3*9 | Valid: true
+info: Jul-26-2024 09:21:49: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:02: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:02: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:04: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:04: 	Successfully retrieved logs
+info: Jul-26-2024 09:25:04: 	Successfully retrieved logs
+info: Jul-26-2024 09:34:28: 	Successfully retrieved logs
+info: Jul-26-2024 09:34:28: 	Successfully retrieved logs
+info: Jul-26-2024 09:34:28: 	Successfully retrieved logs
+info: Jul-26-2024 09:34:28: 	Successfully retrieved logs
+info: Jul-26-2024 09:37:20: 	Successfully retrieved logs
+info: Jul-26-2024 09:37:35: 	Successfully retrieved logs
+info: Jul-26-2024 09:38:03: 	Successfully retrieved logs
+info: Jul-26-2024 09:38:34: 	Successfully retrieved logs
+info: Jul-26-2024 09:42:45: 	Successfully retrieved logs
+info: Jul-26-2024 09:44:54: 	Successfully retrieved logs
+info: Jul-26-2024 09:44:54: 	Successfully retrieved logs
+info: Jul-26-2024 09:45:02: 	Expression logged: 66+33 | Valid: true
+info: Jul-26-2024 09:45:02: 	Successfully retrieved logs
+info: Jul-26-2024 09:46:41: 	Successfully retrieved logs
+info: Jul-26-2024 09:54:04: 	Successfully retrieved logs
+info: Jul-26-2024 09:56:24: 	Successfully retrieved logs
+info: Jul-26-2024 09:56:24: 	Successfully retrieved logs
+info: Jul-26-2024 09:56:29: 	Expression logged: 66+33 | Valid: true
+info: Jul-26-2024 09:56:29: 	Successfully retrieved logs
+info: Jul-26-2024 09:56:41: 	Successfully retrieved logs
+info: Jul-26-2024 09:56:41: 	Successfully retrieved logs
+info: Jul-26-2024 09:56:46: 	Expression logged: 99+33 | Valid: true
+info: Jul-26-2024 09:56:46: 	Successfully retrieved logs
+info: Jul-26-2024 09:57:14: 	Successfully retrieved logs
+info: Jul-26-2024 10:00:02: 	Successfully retrieved logs
+info: Jul-26-2024 10:00:11: 	Successfully retrieved logs
+info: Jul-26-2024 10:04:28: 	Successfully retrieved logs
+info: Jul-26-2024 10:04:31: 	Successfully retrieved logs
+info: Jul-26-2024 10:07:33: 	Successfully retrieved logs
+info: Jul-26-2024 12:49:04: 	Server started on port 5000
+info: Jul-26-2024 12:49:19: 	Successfully retrieved logs
+info: Jul-26-2024 12:49:19: 	Successfully retrieved logs
+info: Jul-26-2024 12:49:31: 	Successfully retrieved logs
+error: Jul-26-2024 12:56:45: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 12:56:58: 	Server started on port 5000
+info: Jul-26-2024 12:57:16: 	Successfully retrieved logs
+info: Jul-26-2024 12:57:16: 	Successfully retrieved logs
+error: Jul-26-2024 12:57:28: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 12:57:30: 	Successfully retrieved logs
+info: Jul-26-2024 12:57:30: 	Successfully retrieved logs
+info: Jul-26-2024 12:58:32: 	Server started on port 5000
+error: Jul-26-2024 12:59:02: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 12:59:06: 	Successfully retrieved logs
+error: Jul-26-2024 12:59:11: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:00:04: 	Server started on port 5000
+error: Jul-26-2024 13:00:17: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:01:03: 	Successfully retrieved logs
+info: Jul-26-2024 13:01:03: 	Successfully retrieved logs
+error: Jul-26-2024 13:01:08: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Jul-26-2024 13:01:10: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Jul-26-2024 13:01:10: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:01:25: 	Successfully retrieved logs
+info: Jul-26-2024 13:01:31: 	Successfully retrieved logs
+info: Jul-26-2024 13:03:28: 	Successfully retrieved logs
+info: Jul-26-2024 13:03:28: 	Successfully retrieved logs
+error: Jul-26-2024 13:03:33: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:05:01: 	Successfully retrieved logs
+info: Jul-26-2024 13:05:01: 	Successfully retrieved logs
+error: Jul-26-2024 13:05:08: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:05:41: 	Successfully retrieved logs
+info: Jul-26-2024 13:05:41: 	Successfully retrieved logs
+info: Jul-26-2024 13:05:48: 	Received an empty expression
+info: Jul-26-2024 13:06:47: 	Successfully retrieved logs
+error: Jul-26-2024 13:06:54: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Jul-26-2024 13:07:12: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:07:24: 	Server started on port 5000
+info: Jul-26-2024 13:13:18: 	Server started on port 5000
+info: Jul-26-2024 13:30:46: 	Server started on port 5000
+error: Jul-26-2024 13:31:04: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Jul-26-2024 13:31:09: 	Database operation error: Operation `calculatorlogs.find()` buffering timed out after 10000ms
+error: Jul-26-2024 13:31:11: 	Error connecting to MongoDB: queryTxt ETIMEOUT cluster0.h6lnfl5.mongodb.net
+info: Jul-26-2024 13:41:58: 	Server started on port 5000
+info: Jul-26-2024 13:42:30: 	Successfully retrieved logs
+info: Jul-26-2024 13:42:30: 	Successfully retrieved logs
+error: Jul-26-2024 13:42:33: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Jul-26-2024 13:42:39: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:42:41: 	Successfully retrieved logs
+info: Jul-26-2024 13:42:41: 	Successfully retrieved logs
+info: Jul-26-2024 13:43:11: 	Successfully retrieved logs
+error: Jul-26-2024 13:44:29: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 13:46:20: 	Server started on port 5000
+info: Jul-26-2024 13:47:38: 	Expression logged: 8+977 | Valid: true
+info: Jul-26-2024 13:47:38: 	Successfully retrieved logs
+info: Jul-26-2024 13:47:41: 	Expression logged: 8+97777 | Valid: true
+info: Jul-26-2024 13:47:41: 	Successfully retrieved logs
+info: Jul-26-2024 13:48:06: 	Expression logged: 88+3 | Valid: true
+info: Jul-26-2024 13:48:06: 	Successfully retrieved logs
+info: Jul-26-2024 13:48:13: 	Expression logged: 55*88 | Valid: true
+info: Jul-26-2024 13:48:13: 	Successfully retrieved logs
+info: Jul-26-2024 13:48:26: 	Expression logged: 8/6 | Valid: true
+info: Jul-26-2024 13:48:26: 	Successfully retrieved logs
+info: Jul-26-2024 13:48:33: 	Expression logged: 4-2 | Valid: true
+info: Jul-26-2024 13:48:33: 	Successfully retrieved logs
+info: Jul-26-2024 13:48:43: 	Expression logged: 100%40 | Valid: true
+info: Jul-26-2024 13:48:43: 	Successfully retrieved logs
+info: Jul-26-2024 13:48:53: 	Expression logged: 10000/200 | Valid: true
+info: Jul-26-2024 13:48:53: 	Successfully retrieved logs
+info: Jul-26-2024 13:49:04: 	Expression logged: 99+11 | Valid: true
+info: Jul-26-2024 13:49:04: 	Successfully retrieved logs
+info: Jul-26-2024 13:49:13: 	Expression logged: 9/5 | Valid: true
+info: Jul-26-2024 13:49:13: 	Successfully retrieved logs
+info: Jul-26-2024 13:52:14: 	Expression logged: 11+22 | Valid: true
+info: Jul-26-2024 13:52:14: 	Successfully retrieved logs
+info: Jul-26-2024 13:52:21: 	Expression logged: 77+22 | Valid: true
+info: Jul-26-2024 13:52:21: 	Successfully retrieved logs
+info: Jul-26-2024 13:52:27: 	Expression logged: 9*4 | Valid: true
+info: Jul-26-2024 13:52:27: 	Successfully retrieved logs
+info: Jul-26-2024 13:52:32: 	Expression logged: 8-2 | Valid: true
+info: Jul-26-2024 13:52:32: 	Successfully retrieved logs
+info: Jul-26-2024 13:53:20: 	Expression logged: 100-30 | Valid: true
+info: Jul-26-2024 13:53:20: 	Successfully retrieved logs
+info: Jul-26-2024 13:53:44: 	Expression logged: 456+123 | Valid: true
+info: Jul-26-2024 13:53:44: 	Successfully retrieved logs
+info: Jul-26-2024 13:53:57: 	Expression logged: 789-123 | Valid: true
+info: Jul-26-2024 13:53:57: 	Successfully retrieved logs
+info: Jul-26-2024 13:54:02: 	Expression logged: 7*9 | Valid: true
+info: Jul-26-2024 13:54:02: 	Successfully retrieved logs
+info: Jul-26-2024 13:54:18: 	Expression logged: 80%10 | Valid: true
+info: Jul-26-2024 13:54:18: 	Successfully retrieved logs
+info: Jul-26-2024 13:54:31: 	Expression logged: 50/30 | Valid: true
+info: Jul-26-2024 13:54:31: 	Successfully retrieved logs
+info: Jul-26-2024 13:54:46: 	Expression logged: 100%500 | Valid: true
+info: Jul-26-2024 13:54:46: 	Successfully retrieved logs
+info: Jul-26-2024 13:55:03: 	Expression logged: 100.100+10 | Valid: true
+info: Jul-26-2024 13:55:03: 	Successfully retrieved logs
+info: Jul-26-2024 13:55:13: 	Expression logged: 55*2 | Valid: true
+info: Jul-26-2024 13:55:13: 	Successfully retrieved logs
+info: Jul-26-2024 14:21:43: 	Successfully retrieved logs
+info: Jul-26-2024 14:21:43: 	Successfully retrieved logs
+info: Jul-26-2024 14:21:48: 	Expression logged: 55 | Valid: true
+info: Jul-26-2024 14:21:48: 	Successfully retrieved logs
+info: Jul-26-2024 14:21:52: 	Expression logged: 55-66 | Valid: true
+info: Jul-26-2024 14:21:52: 	Successfully retrieved logs
+info: Jul-26-2024 14:21:57: 	Expression logged: 55-66+88 | Valid: true
+info: Jul-26-2024 14:21:57: 	Successfully retrieved logs
+info: Jul-26-2024 14:25:25: 	Server started on port 5000
+error: Jul-26-2024 14:25:39: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Jul-26-2024 14:25:46: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Jul-26-2024 15:16:05: 	Successfully retrieved logs
+info: Jul-26-2024 15:16:05: 	Successfully retrieved logs
+info: Aug-14-2024 17:11:08: 	Server started on port 5000
+info: Aug-14-2024 17:11:20: 	Successfully retrieved logs
+info: Aug-14-2024 17:11:20: 	Successfully retrieved logs
+error: Aug-14-2024 17:11:41: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Aug-14-2024 17:12:07: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+error: Aug-14-2024 17:13:11: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
+info: Aug-14-2024 17:15:52: 	Successfully retrieved logs
+info: Aug-14-2024 17:16:19: 	Successfully retrieved logs
+info: Aug-14-2024 17:16:24: 	Successfully retrieved logs
+info: Aug-14-2024 17:16:25: 	Successfully retrieved logs
+info: Aug-16-2024 18:55:59: 	Server started on port 5000
+info: Aug-16-2024 18:56:15: 	Successfully retrieved logs
+info: Aug-16-2024 18:56:15: 	Successfully retrieved logs
+info: Aug-16-2024 19:00:42: 	Server started on port 5000
+info: Aug-16-2024 19:00:59: 	Server started on port 5000
+info: Aug-16-2024 19:02:13: 	Successfully retrieved logs
+info: Aug-16-2024 19:02:13: 	Successfully retrieved logs
+info: Aug-16-2024 19:02:22: 	Successfully retrieved logs
+info: Aug-16-2024 19:02:22: 	Successfully retrieved logs
+info: Aug-16-2024 19:02:55: 	Successfully retrieved logs
+info: Aug-16-2024 19:03:05: 	Successfully retrieved logs
+info: Aug-16-2024 19:03:38: 	Successfully retrieved logs
+info: Aug-16-2024 19:03:38: 	Successfully retrieved logs
+info: Aug-16-2024 19:03:40: 	Successfully retrieved logs
+info: Aug-16-2024 19:03:40: 	Successfully retrieved logs
+info: Aug-16-2024 20:05:17: 	Successfully retrieved logs
+info: Aug-16-2024 20:05:17: 	Successfully retrieved logs
+info: Aug-17-2024 21:01:32: 	Server started on port 5000
+info: Aug-17-2024 21:06:36: 	Server started on port 5000
+info: Aug-17-2024 21:07:58: 	Server started on port 5000
+info: Aug-17-2024 21:08:29: 	Server started on port 5000
+info: Aug-17-2024 21:17:31: 	Server started on port 5000
+info: Aug-17-2024 21:25:09: 	Server started on port 5000
+info: Aug-17-2024 22:01:13: 	Server started on port 5000
+info: Aug-18-2024 11:02:26: 	Server started on port 5000
+info: Aug-18-2024 11:02:49: 	Server started on port 5000
+info: Aug-18-2024 16:28:24: 	Server started on port 5000
+error: Aug-18-2024 16:28:24: 	Error connecting to MongoDB: querySrv ETIMEOUT _mongodb._tcp.cluster0.uscvgdc.mongodb.net
+info: Aug-18-2024 16:41:04: 	Server started on port 5000
+info: Aug-19-2024 08:25:21: 	Server started on port 5000
+info: Aug-19-2024 08:33:02: 	Server started on port 5000
+info: Aug-19-2024 08:43:18: 	Server started on port 5000
+info: Aug-19-2024 08:44:45: 	Server started on port 5000
+info: Aug-19-2024 20:10:18: 	Server started on port 5000
+info: Aug-19-2024 20:11:35: 	Server started on port 5000
+info: Aug-19-2024 20:16:22: 	Server started on port 5000
+info: Aug-20-2024 07:49:48: 	Server started on port 5000
+info: Aug-20-2024 08:00:35: 	Server started on port 5000
+error: Aug-20-2024 08:07:24: 	Database operation error: CalculatorLog validation failed: id: Path `id` is required.
